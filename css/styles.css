@@ -2851,7 +2851,7 @@ textarea.form-control-lg {
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #cc3434;
   --bs-btn-hover-border-color: #b82f2f;
-  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-focus-shadow-rgb: 225, 83, 97;
   --bs-btn-active-color: #fff;
   --bs-btn-active-bg: #d14848;
   --bs-btn-active-border-color: #b82f2f;
